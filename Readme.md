@@ -6,8 +6,8 @@ Lorem ipsum dolor sit amet. Non nihil consectetur aut iste tempora At officia co
 
 
 # Project requirements:
-1. At least 30 endpoints
-2. At least 5 tables
+1. At least 25 endpoints
+2. At least 4 tables
 3. Include all CRUD operations (Create, Read, Update, Delete)
 4. At least 15 unit tests(5 controller tests, 5 service tests, 5 repositiory tests)
 
