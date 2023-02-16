@@ -5,13 +5,6 @@
 Lorem ipsum dolor sit amet. Non nihil consectetur aut iste tempora At officia consequuntur sed sint dolorem ut odit obcaecati. Rem perferendis velit aut reiciendis molestiae eos dignissimos totam. Lorem ipsum dolor sit amet. Non nihil consectetur aut iste tempora At officia consequuntur sed sint dolorem ut odit obcaecati. Rem perferendis velit aut reiciendis molestiae eos dignissimos totam. Lorem ipsum dolor sit amet. Non nihil consectetur aut iste tempora At officia consequuntur sed sint dolorem ut odit obcaecati. Rem perferendis velit aut reiciendis molestiae eos dignissimos totam.
 
 
-
-
-## Class diagram:
-![](https://paper-attachments.dropbox.com/s_523686E7A6600616A8D38B40B5D29771F7EB5362F3E8445E890505CBB076E51B_1654065069655_image.png)
-
-
-
 # Project requirements:
 1. At least 30 endpoints
 2. At least 5 tables
