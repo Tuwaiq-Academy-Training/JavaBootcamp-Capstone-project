@@ -27,6 +27,7 @@ Lorem ipsum dolor sit amet. Non nihil consectetur aut iste tempora At officia co
 2. Add your project files to the repository
 3. Add your endpoints documentation (Postman)
 4. Add your figma link
+5. Add your presentation
 
 
 ## **Important note:**
